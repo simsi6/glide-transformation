@@ -65,7 +65,8 @@ public class CircleTransformation implements Transformation<Bitmap> {
         return BitmapResource.obtain(bitmap, mBitmapPool);
     }
 
-    @Override public String getId() {
+    @Override
+    public String getId() {
         return CircleTransformation.class.getSimpleName();
     }
 }
