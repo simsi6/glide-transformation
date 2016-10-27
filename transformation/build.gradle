@@ -36,7 +36,7 @@ publish {
     userOrg = 'jaeryong'
     groupId = 'com.jaeryong'
     artifactId = 'glide-transformation'
-    publishVersion = '0.0.1'
+    publishVersion = '0.0.2'
     desc = 'Transformation for glide'
     website = 'https://github.com/simsi6/glide-transformation'
 }
